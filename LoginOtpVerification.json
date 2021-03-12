@@ -1,0 +1,16 @@
+{
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_code": "2006",
+	"requestapi": "LoginOtpVerification",
+	"resp_type": "SUCCESS",
+	"resp_data": "resp_frm_ewire",
+	"resp_frm_ewire": {
+		"status": "F01",
+		"message": "Successfully verified",
+		"details": {
+			"sessionId": "456"
+		}
+	},
+	"resp_frm_yesb": {}
+}
