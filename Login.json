@@ -4,6 +4,7 @@
 	"resp_code": "2002",
 	"requestapi": "Login",
 	"resp_type": "SUCCESS",
+	"resp_data": "resp_frm_ewire",
 	"resp_frm_ewire": {
 		"status": "F01",
 		"message": "Successfully Login",
