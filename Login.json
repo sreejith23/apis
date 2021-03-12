@@ -1,14 +1,15 @@
 {
-        "ewire_reqid": "10",
-        "timeStamp": "2021-02-26 11:53:09",
-        "resp_code": "2002",
-        "requestapi":"Login"
-        "resp_type": "SUCCESS",
-        "resp_frm_ewire": {
-                "status": "F01",
-                "message": "Successfully Login",
-                "details": { "otp_token":"878733939"
-                           }
-        },
-        "resp_frm_yesb": {}
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_code": "2002",
+	"requestapi": "Login",
+	"resp_type": "SUCCESS",
+	"resp_frm_ewire": {
+		"status": "F01",
+		"message": "Successfully Login",
+		"details": {
+			"otp_token": "878733939"
+		}
+	},
+	"resp_frm_yesb": {}
 }
