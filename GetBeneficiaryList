@@ -1,0 +1,27 @@
+{
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_data": "resp_frm_ewire",
+	"resp_code": "2039",
+	"requestapi": "GetBeneficiaryList",
+	"resp_type": "SUCCESS",
+	"resp_frm_ewire": {
+		"status": "F01",
+		"message": "beneficiary list fetched successfully",
+		"details": [{
+			"beneficiary_image": "imageUrl",
+			"beneficiary_name": "raju",
+			"beneficiary_account": "4836878782",
+			"beneficiary_id": "12"
+		}, {
+			"beneficiary_image": "imageUrl",
+			"beneficiary_name": "john",
+			"beneficiary_account": "4836878782",
+			"beneficiary_id": "13"
+		}]
+
+	},
+	"resp_frm_yesb": {
+
+	}
+}
