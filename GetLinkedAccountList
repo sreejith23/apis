@@ -1,0 +1,33 @@
+{
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_data": "resp_frm_ewire",
+	"resp_code": "2043",
+	"requestapi": "GetLinkedAccountList",
+	"resp_type": "SUCCESS",
+	"resp_frm_ewire": {
+
+		"status": "F01",
+		"message": "Linked Accounts fetched successfully",
+		"details": [{
+
+			"account_image": "imageUrl",
+			"account_number": "6939493y9",
+			"channelTypes": [{
+					"type": "imps",
+					"status": "E"
+
+				},
+				{
+					"type": "upi",
+					"status": "D"
+				}
+			]
+
+		}]
+
+	},
+	"resp_frm_yesb": {
+
+	}
+}
