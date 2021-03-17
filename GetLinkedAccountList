@@ -6,24 +6,36 @@
 	"requestapi": "GetLinkedAccountList",
 	"resp_type": "SUCCESS",
 	"resp_frm_ewire": {
-
 		"status": "F01",
 		"message": "Linked Accounts fetched successfully",
 		"details": [{
-
+			"bank_name": "Attijariwafa Bank",
 			"account_image": "imageUrl",
-			"account_number": "6939493y9",
+			"account_number": "3560006939493789",
+			"ifsc_code": "SBIN0070",
 			"channelTypes": [{
 					"type": "imps",
 					"status": "E"
-
 				},
 				{
 					"type": "upi",
 					"status": "D"
 				}
 			]
-
+		}, {
+			"bank_name": "Attijariwafa Bank",
+			"account_image": "imageUrl",
+			"account_number": "3560006939495684",
+			"ifsc_code": "SBIN0070",
+			"channelTypes": [{
+					"type": "imps",
+					"status": "E"
+				},
+				{
+					"type": "upi",
+					"status": "D"
+				}
+			]
 		}]
 
 	},
