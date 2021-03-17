@@ -1,0 +1,16 @@
+{
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_data": "resp_frm_ewire",
+	"resp_code": "2045",
+	"requestapi": "LinkNewAccount",
+	"resp_type": "SUCCESS",
+	"resp_frm_ewire": {
+
+		"status": "F01",
+		"message": "New account linked",
+		"details": {}
+
+	},
+	"resp_frm_yesb": {}
+}
