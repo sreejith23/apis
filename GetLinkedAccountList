@@ -9,6 +9,7 @@
 		"status": "F01",
 		"message": "Linked Accounts fetched successfully",
 		"details": [{
+			"accounts_id": "156",
 			"bank_name": "Attijariwafa Bank",
 			"account_image": "imageUrl",
 			"account_number": "3560006939493789",
@@ -23,9 +24,10 @@
 				}
 			]
 		}, {
+			"accounts_id": "157",
 			"bank_name": "Attijariwafa Bank",
 			"account_image": "imageUrl",
-			"account_number": "3560006939495684",
+			"account_number": "3560006939494276",
 			"ifsc_code": "SBIN0070",
 			"channelTypes": [{
 					"type": "imps",
