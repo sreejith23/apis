@@ -20,7 +20,7 @@
 		}]
 	},
 
-	"resp_frm_yesb": {
+	"resp_frm_yesb": [{
 		"1": [{
 				"transaction_ref_no": "12121212",
 				"amount": "1000",
@@ -40,5 +40,5 @@
 			"status": "paid",
 			"transactionDate": "13-2-2020"
 		}]
-	}
+	}]
 }
