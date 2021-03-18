@@ -1,0 +1,44 @@
+{
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_data": "resp_frm_ewire",
+	"resp_code": "2010",
+	"requestapi": "GetTransactionDetails",
+	"resp_type": "SUCCESS",
+	"resp_frm_ewire": {
+		"status": "F01",
+		"message": "GetTransactionDetails fetched successfully",
+		"details": [{
+			"1": {
+				"imageUrl": "imageUrl",
+				"user_name": "jo"
+			},
+			"2": {
+				"imageUrl": "imageUrl",
+				"user_name": "jo"
+			}
+		}]
+	},
+
+	"resp_frm_yesb": {
+		"1": [{
+				"transaction_ref_no": "12121212",
+				"amount": "1000",
+				"status": "paid",
+				"transactionDate": "13-2-2020"
+			},
+			{
+				"transaction_ref_no": "12121212",
+				"amount": "1000",
+				"status": "paid",
+				"transactionDate": "13-2-2020"
+			}
+		],
+		"2": [{
+			"transaction_ref_no": "12121212",
+			"amount": "1000",
+			"status": "paid",
+			"transactionDate": "13-2-2020"
+		}]
+	}
+}
