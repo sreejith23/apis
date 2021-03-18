@@ -1,0 +1,41 @@
+{
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_data": "resp_frm_ewire",
+	"resp_code": "2019",
+	"requestapi": "GetCardDetails",
+	"resp_type": "SUCCESS",
+	"resp_frm_ewire": {
+		"status": "S00",
+		"message": "Card list fetched successfully",
+		"details": [{
+
+			"cardTypeUrl": "http://ewire.com/visa.png",
+			"cardNo": "4521 XXXX XXXX 2345",
+			"primaryStatus": 1,
+			"disableStatus": 0
+		}, {
+
+			"cardTypeUrl": "http://ewire.com/mastercard.png",
+			"cardNo": "4521 XXXX XXXX 2345",
+			"primaryStatus": 0,
+			"disableStatus": 0
+		}]
+	},
+	"resp_frm_yesb": {
+		"details": [{
+
+			"cardTypeUrl": "http://ewire.com/americanExpress.png",
+			"cardNo": "4521 XXXX XXXX 2345",
+			"primaryStatus": 0,
+			"disableStatus": 0
+		}, {
+
+			"cardTypeUrl": "http://ewire.com/mastercard.png",
+			"cardNo": "4521 XXXX XXXX 2345",
+			"primaryStatus": 0,
+			"disableStatus": 1
+		}]
+
+	}
+}
