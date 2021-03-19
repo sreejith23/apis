@@ -11,32 +11,37 @@
 		"details": [{
 			"userName": "John Doe",
 			"transactionReferenceNo": "12121212",
+			"transactionType": 1,
 			"amount": "1560.00",
-			"status": "paid",
+			"status": 1,
 			"transactionDate": "13-2-2020"
 		}, {
 			"userName": "Jane Doe",
 			"transactionReferenceNo": "12121212",
+			"transactionType": 2,
 			"amount": "1000.00",
-			"status": "paid",
+			"status": 1,
 			"transactionDate": "13-2-2020"
 		}, {
 			"userName": "John Doe",
 			"transactionReferenceNo": "12121212",
+			"transactionType": 1,
 			"amount": "575.00",
-			"status": "paid",
+			"status": 1,
 			"transactionDate": "13-2-2020"
 		}, {
 			"userName": "Ram",
 			"transactionReferenceNo": "12121212",
+			"transactionType": 2,
 			"amount": "1200.00",
-			"status": "paid",
+			"status": 1,
 			"transactionDate": "13-2-2020"
 		}, {
 			"userName": "Govind",
 			"transactionReferenceNo": "12121212",
+			"transactionType": 1,
 			"amount": "200.00",
-			"status": "paid",
+			"status": 0,
 			"transactionDate": "13-2-2020"
 		}]
 	},
