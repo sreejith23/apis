@@ -8,7 +8,7 @@
 	"resp_frm_ewire": {
 
 		"status": "F01",
-		"message": "Wallet blocked successfully",
+		"message": "Wallet unblocked successfully",
 		"details": {
 
 		}
