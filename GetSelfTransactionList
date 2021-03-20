@@ -11,7 +11,7 @@
 		"message": "transaction list fetched successfully",
 		"details": [{
 
-				"amount": "100",
+				"amount": "$ 100",
 				"fromAccount": "368768428",
 				"toAccount": "4836878782",
 				"transactiondate": "13-2-2021 "
