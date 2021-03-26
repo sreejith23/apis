@@ -10,10 +10,11 @@
 		"details": {
 			"email": "a@g.com",
 			"mobile": "995482933993",
-			"user_name": "anu"
+			"user_name": "anu",
+			"balance": "100"
 		}
 	},
 	"resp_frm_yesb": {
-		"balance": "100"
+		
 	}
 }
