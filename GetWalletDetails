@@ -1,0 +1,34 @@
+{
+        "ewire_reqid": "10",
+        "time_stamp": "2021-02-26 11:53:09",
+        "resp_code": "1010",
+        "req_api": "GetWalletDetails",
+        "resp_data": "resp_frm_ewire",
+        "resp_type": "Success",
+        "resp_frm_ewire": {
+                "status": "S00",
+                "message": "Wallet details fetched successfully.",
+                "details": {
+                        "walletBalance": {
+                                "amount": "4678.00",
+                                "currencySymbol": "₹"
+                        },
+                        "transactions": [{
+                                "image": "http://ewire.com/user1.png",
+                                "transactionAmount": {
+                                        "amount": "4678.00",
+                                        "currencySymbol": "₹"
+                                },
+                                "date": "12-12-2020 11:30"
+                        }, {
+                                "image": "http://ewire.com/user1.png",
+                                "transactionAmount": {
+                                        "amount": "4678.00",
+                                        "currencySymbol": "₹"
+                                },
+                                "date": "12-12-2020 11:30"
+                        }]
+                }
+        },
+        "resp_frm_yesb": {}
+}
