@@ -1,0 +1,29 @@
+{
+        "ewire_reqid": "10",
+        "time_stamp": "2021-02-26 11:53:09",
+        "resp_code": "1043",
+        "req_api": "GetStoresForCategory",
+        "resp_data": "resp_frm_ewire",
+        "resp_type": "Success",
+        "resp_frm_ewire": {
+                "status": "S00",
+                "message": "You have fetched stores for the category",
+                "details": [{
+                        "id": "1",
+                        "name": "Food Mart",
+                        "description": "Supermarket",
+                        "openTime": "9am - 9pm"
+                }, {
+                        "id": "1",
+                        "name": "Food Mart",
+                        "description": "Supermarket",
+                        "openTime": "9am - 9pm"
+                }, {
+                        "id": "1",
+                        "name": "Food Mart",
+                        "description": "Supermarket",
+                        "openTime": "9am - 9pm"
+                }]
+        },
+        "resp_frm_yesb": {}
+}
