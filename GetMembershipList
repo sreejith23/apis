@@ -1,0 +1,36 @@
+{
+	"ewire_reqid": "10",
+	"time_stamp": "2021-02-26 11:53:09",
+	"resp_code": "1072",
+	"req_api": "GetMembershipList",
+	"resp_data": "resp_frm_ewire",
+	"resp_type": "Success",
+	"resp_frm_ewire": {
+		"status": "S00",
+		"message": "You have fetched Membership list",
+		"details": [{
+				"membershipmonth": "1 Month",
+				"membershipAmount": "1500",
+				"membershipduration": "1500",
+				"membershippercentage": "30%"
+
+			},
+			{
+				"membershipmonth": "2 Month",
+				"membershipAmount": "3000",
+				"membershipduration": "1500",
+				"membershippercentage": "20%"
+			},
+
+			{
+				"membershipmonth": "1 Month",
+				"membershipAmount": "1500",
+				"membershipduration": "1500",
+				"membershippercentage": "20%"
+			}
+		]
+
+
+	},
+	"resp_frm_yesb": {}
+}
