@@ -19,16 +19,15 @@
                                 "title": "FLAT 350 off",
                                 "description":"Get flat 350 and extra 5% off an all prepaid order",
                                 "code" : "XXXXXX",
-                                "isOpened": false,
-                                "icon_name" : "icon_mamaearth"
+                                "isOpened": false
                         }, {
                                 "name": "Ajio",
                                 "logo": "http://ewire.com/ajio.png",
                                  "title": "FLAT 350 off",
                                 "description":"Get flat 350 and extra 5% off an all prepaid order",
                                 "code" : "XXXXXX",
-                                "isOpened": true,
-                                "icon_name" : "icon_ajio"
+                                "isOpened": true
+                         
                         }]
                 }
         },
