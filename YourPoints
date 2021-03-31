@@ -20,7 +20,7 @@
                                 "description":"Get flat 350 and extra 5% off an all prepaid order",
                                 "code" : "XXXXXX",
                                 "isOpened": false,
-                                "android_image" : "R.drawable.icon_mamaearth"
+                                "icon_name" : "icon_mamaearth"
                         }, {
                                 "name": "Ajio",
                                 "logo": "http://ewire.com/ajio.png",
@@ -28,7 +28,7 @@
                                 "description":"Get flat 350 and extra 5% off an all prepaid order",
                                 "code" : "XXXXXX",
                                 "isOpened": true,
-                                "android_image" : "R.drawable.icon_ajio"
+                                "icon_name" : "icon_ajio"
                         }]
                 }
         },
