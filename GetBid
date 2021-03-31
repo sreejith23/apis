@@ -1,0 +1,22 @@
+{
+	"ewire_reqid": "10",
+	"time_stamp": "2021-02-26 11:53:09",
+	"resp_code": "1074",
+	"req_api": "GetBid",
+	"resp_data": "resp_frm_ewire",
+	"resp_type": "Success",
+	"resp_frm_ewire": {
+		"status": "S00",
+		"message": "You have fetched Bid Details",
+		"details": [{
+			"bidamount": "1200",
+			"itemnumber": "00122",
+			"itemname": "Bag",
+			"itemparagraph": "Best bag in the catagory",
+			"marketprice": "1800",
+			"currentbid": "40"
+		}]
+	},
+	"resp_frm_yesb": {}
+}
+
