@@ -1,26 +1,93 @@
-{
-        "ewire_reqid": "10",
-        "time_stamp": "2021-02-26 11:53:09",
-        "resp_code": "1045",
-        "req_api": "GetOffersList",
-        "resp_data": "resp_frm_ewire",
-        "resp_type": "Success",
-        "resp_frm_ewire": {
-                "status": "S00",
-                "message": "You have fetched offers successfully",
-                "details": [{
-                        "id": "1",
-                        "title": "Get flat 20% off",
-                        "description": "Get flat 20% off",
-                        "offerValidTime": "1 january 2021 - 28 feb 2021",
-                        "image": "http://ewire.com/offer.png"
-                }, {
-                        "id": "2",
-                        "title": "Get flat 20% off",
-                        "description": "Get flat 20% off",
-                        "offerValidTime": "1 january 2021 - 28 feb 2021",
-                        "image": "http://ewire.com/offer.png"
-                }]
-        },
-        "resp_frm_yesb": {}
-}
+  {
+  	"ewire_reqid": "10",
+  	"time_stamp": "2021-02-26 11:53:09",
+  	"resp_code": "1045",
+  	"req_api": "GetOffersList",
+  	"resp_data": "resp_frm_ewire",
+  	"resp_type": "Success",
+  	"resp_frm_ewire": {
+  		"status": "S00",
+  		"message": "You have fetched offers successfully",
+  		"details": [
+
+
+  			{
+  				"id": "1",
+  				"title": "Get flat 20% off",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"name": "amazon",
+  				"image": "http://ewire.com/offer.png"
+  			}, {
+  				"id": "2",
+  				"title": "Get flat 20% off",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"image": "http://ewire.com/offer.png",
+  				"name": "ajio"
+  			},
+  			{
+  				"id": "3",
+  				"title": "Get Flat 20% discount",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"name": "amazon",
+  				"image": "http://ewire.com/offer.png"
+  			}, {
+  				"id": "4",
+  				"title": "Get flat 20% off",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"image": "http://ewire.com/offer.png",
+  				"name": "mamaearth"
+  			},
+  			{
+  				"id": "5",
+  				"title": "Get flat 20% off",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"name": "amazon",
+  				"image": "http://ewire.com/offer.png"
+  			}, {
+  				"id": "6",
+  				"title": "Get flat 20% off",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"image": "http://ewire.com/offer.png",
+  				"name": "bata"
+  			},
+  			{
+  				"id": "7",
+  				"title": "Get flat 20% off",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"name": "amazon",
+  				"image": "http://ewire.com/offer.png"
+  			}, {
+  				"id": "8",
+  				"title": "Get flat 20% off",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"image": "http://ewire.com/offer.png",
+  				"name": "myntra"
+  			},
+  			{
+  				"id": "7",
+  				"title": "Get flat 20% off",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"name": "mamaearth",
+  				"image": "http://ewire.com/offer.png"
+  			}, {
+  				"id": "8",
+  				"title": "Get flat 20% off",
+  				"description": "Get flat 20% off",
+  				"offerValidTime": "1 january 2021 - 28 feb 2021",
+  				"image": "http://ewire.com/offer.png",
+  				"name": "bata"
+  			}
+
+  		]
+  	},
+  	"resp_frm_yesb": {}
+  }
