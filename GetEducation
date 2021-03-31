@@ -2,7 +2,7 @@
 	"ewire_reqid": "10",
 	"time_stamp": "2021-02-26 11:53:09",
 	"resp_code": "1070",
-	"req_api": "GetEducation",
+	"req_api": "GetInstituteList",
 	"resp_data": "resp_frm_ewire",
 	"resp_type": "Success",
 	"resp_frm_ewire": {
