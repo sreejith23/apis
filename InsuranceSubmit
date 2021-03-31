@@ -1,0 +1,14 @@
+{
+	"ewire_reqid": "10",
+	"time_stamp": "2021-02-26 11:53:09",
+	"resp_code": "1076",
+	"req_api": "InsuranceSubmit",
+	"resp_data": "resp_frm_ewire",
+	"resp_type": "Success",
+	"resp_frm_ewire": {
+		"status": "S00",
+		"message": "Your Insurance Submission is Successful",
+		"details": {}
+	},
+	"resp_frm_yesb": {}
+}
