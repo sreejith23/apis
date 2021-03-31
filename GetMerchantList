@@ -1,0 +1,47 @@
+{
+	"ewire_reqid": "10",
+	"time_stamp": "2021-02-26 11:53:09",
+	"resp_code": "1073",
+	"req_api": "GetMerchantList",
+	"resp_data": "resp_frm_ewire",
+	"resp_type": "Success",
+	"resp_frm_ewire": {
+		"status": "S00",
+		"message": "You have fetched Merchant list",
+		"details": [{
+				"iconmerchant": "icon_store",
+				"merchantname": "Starbucks",
+				"merchantdetails": "Resturant Lulumall, NH17 ",
+				"merchantamount": "1500",
+				"merchantdays": "04.02.2021 | 26 days left"
+
+			},
+			{
+				"iconmerchant": "icon_store",
+				"merchantname": "Best Bakers",
+				"merchantdetails": "Resturant Lulumall, NH17 ",
+				"merchantamount": "1200",
+				"merchantdays": "04.02.2021 | 26 days left"
+			},
+
+			{
+				"iconmerchant": "icon_store",
+				"merchantname": "KFC",
+				"merchantdetails": "Resturant Lulumall, NH17",
+				"merchantamount": "1350",
+				"merchantdays": "04.02.2021 | 26 days left"
+			},
+
+			{
+				"iconmerchant": "icon_store",
+				"merchantname": "Cafe Coffee Day",
+				"merchantdetails": "Resturant Lulumall, NH17",
+				"merchantamount": "1200",
+				"merchantdays": "04.02.2021 | 26 days left"
+			}
+
+		]
+
+	},
+	"resp_frm_yesb": {}
+}
