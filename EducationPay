@@ -1,0 +1,14 @@
+{
+	"ewire_reqid": "10",
+	"time_stamp": "2021-02-26 11:53:09",
+	"resp_code": "1075",
+	"req_api": "EducationPay",
+	"resp_data": "resp_frm_ewire",
+	"resp_type": "Success",
+	"resp_frm_ewire": {
+		"status": "S00",
+		"message": "Your Education Payment is Succcess full",
+		"details": {}
+	},
+	"resp_frm_yesb": {}
+}
