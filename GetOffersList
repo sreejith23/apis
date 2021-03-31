@@ -4,7 +4,7 @@
   	"resp_code": "1045",
   	"req_api": "GetOffersList",
   	"resp_data": "resp_frm_ewire",
-  	"resp_type": "Success",
+  	"resp_type": "SUCCESS",
   	"resp_frm_ewire": {
   		"status": "S00",
   		"message": "You have fetched offers successfully",
