@@ -10,21 +10,21 @@
 		"message": "You have fetched Membership list",
 		"details": [{
 				"membershipmonth": "1 Month",
-				"membershipAmount": "1500",
+				"membershipAmount": "₹ 1500",
 				"membershipduration": "1500",
 				"membershippercentage": "30%"
 
 			},
 			{
 				"membershipmonth": "2 Month",
-				"membershipAmount": "3000",
+				"membershipAmount": "₹ 3000",
 				"membershipduration": "1500",
 				"membershippercentage": "20%"
 			},
 
 			{
 				"membershipmonth": "1 Month",
-				"membershipAmount": "1500",
+				"membershipAmount": "₹ 2000",
 				"membershipduration": "1500",
 				"membershippercentage": "20%"
 			}
