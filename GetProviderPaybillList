@@ -1,0 +1,32 @@
+{
+	"ewire_reqid": "10",
+	"time_stamp": "2021-02-26 11:53:09",
+	"resp_code": "1079",
+	"req_api": "GetProviderPaybillList",
+	"resp_data": "resp_frm_ewire",
+	"resp_type": "Success",
+	"resp_frm_ewire": {
+		"status": "S00",
+		"message": "You have fetched Paybill Provider List",
+		"details": [{
+				"providerid": "1",
+				"providericon": "icon_provider_kseb",
+				"providername": "Kerala State Eletricity Board LTD."
+			},
+
+			{
+				"providerid": "2",
+				"providericon": "icon_provider_assampower",
+				"providername": "Assam Power Distribution Company LTD"
+			},
+
+			{
+				"providerid": "3",
+				"providericon": "icon_provider_assampower",
+				"providername": "Lakshadweep Electricity Department"
+			}
+
+		]
+	},
+	"resp_frm_yesb": {}
+}
