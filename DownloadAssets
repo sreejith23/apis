@@ -1,0 +1,27 @@
+{
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_data": "resp_frm_ewire",
+	"resp_code": "2023",
+	"requestapi": "DownloadAssets",
+	"resp_type": "SUCCESS",
+	"resp_frm_ewire": {
+		"status": "F01",
+		"message": "Card added successfully",
+		"details": {
+			"images": {
+				"bottom": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos+bottom.png",
+				"top": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos_top-+1.png"
+			},
+			"Colors": {
+				"AccentColor": {
+					"hex": "D91F45",
+					"r": 217,
+					"g": 31,
+					"b": 69
+				}
+			}
+		}
+	},
+	"resp_frm_yesb": {}
+}
