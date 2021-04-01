@@ -1,0 +1,38 @@
+{
+	"ewire_reqid": "10",
+	"time_stamp": "2021-02-26 11:53:09",
+	"resp_code": "1077",
+	"req_api": "GetAlertOutstandList",
+	"resp_data": "resp_frm_ewire",
+	"resp_type": "Success",
+	"resp_frm_ewire": {
+		"status": "S00",
+		"message": "You have fetched alert outstanding List",
+		"details": [{
+				"alertid": "1",
+				"iconimage": "icon_recharge_vi",
+				"payamount": "300",
+				"overdue": "Overdue Since 1/02/2021"
+			},
+			{
+				"alertid": "2",
+				"iconimage": "icon_provider_kseb",
+				"payamount": "320",
+				"overdue": "Overdue Since 1/02/2021"
+			},
+			{
+				"alertid": "3",
+				"iconimage": "icon_recharge_airtel",
+				"payamount": "327",
+				"overdue": "Overdue Since 1/02/2021"
+			},
+			{
+				"alertid": "4",
+				"iconimage": "icon_provider_kseb",
+				"payamount": "500",
+				"overdue": "Overdue Since 1/02/2021"
+			}
+		]
+	},
+	"resp_frm_yesb": {}
+}
