@@ -1,0 +1,91 @@
+{
+	"ewire_reqid": "10",
+	"time_stamp": "2021-02-26 11:53:09",
+	"resp_code": "1078",
+	"req_api": "GetPayBillHomeList",
+	"resp_data": "resp_frm_ewire",
+	"resp_type": "Success",
+	"resp_frm_ewire": {
+		"status": "S00",
+		"message": "You have fetched Paybill Home List",
+		"details": [{
+				"paybillid": "1",
+				"paybillicon": "icon_paybill_recharge",
+				"paybilltext": "Recharge"
+			},
+			{
+				"paybillid": "2",
+				"paybillicon": "icon_paybill_cart",
+				"paybilltext": "Online Shopping"
+			},
+
+			{
+				"paybillid": "3",
+				"paybillicon": "icon_paybill_electricity",
+				"paybilltext": "Electricity Bill"
+			},
+
+			{
+				"paybillid": "4",
+				"paybillicon": "icon_paybill_insurance",
+				"paybilltext": "Insurance"
+			},
+
+			{
+				"paybillid": "5",
+				"paybillicon": "icon_paybill_water",
+				"paybilltext": "Water Bill"
+			},
+
+			{
+				"paybillid": "6",
+				"paybillicon": "icon_paybill_dth",
+				"paybilltext": "DTH"
+			},
+
+			{
+				"paybillid": "7",
+				"paybillicon": "icon_paybill_postpaid",
+				"paybilltext": "PostPaid Bill"
+			},
+
+			{
+				"paybillid": "8",
+				"paybillicon": "icon_paybill_broadband",
+				"paybilltext": "Broad Band"
+			},
+
+			{
+				"paybillid": "9",
+				"paybillicon": "icon_paybill_education",
+				"paybilltext": "Education"
+			},
+			{
+				"paybillid": "10",
+				"paybillicon": "icon_paybill_loan",
+				"paybilltext": "Loan Emi"
+			},
+
+			{
+				"paybillid": "11",
+				"paybillicon": "icon_paybill_donate",
+				"paybilltext": "Donate"
+			},
+
+			{
+				"paybillid": "12",
+				"paybillicon": "icon_paybill_hospital",
+				"paybilltext": "Hospital"
+			},
+
+			{
+				"paybillid": "13",
+				"paybillicon": "icon_paybill_gas",
+				"paybilltext": "Gas"
+			}
+
+
+		]
+	},
+	"resp_frm_yesb": {}
+}
