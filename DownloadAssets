@@ -3,7 +3,7 @@
 	"timeStamp": "2021-02-26 11:53:09",
 	"resp_data": "resp_frm_ewire",
 	"resp_code": "2023",
-	"requestapi": "DownloadAssets",
+	"requestapi": "AddNewBankCard",
 	"resp_type": "SUCCESS",
 	"resp_frm_ewire": {
 		"status": "F01",
@@ -11,7 +11,8 @@
 		"details": {
 			"images": {
 				"bottom": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos+bottom.png",
-				"top": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos_top-+1.png"
+				"top": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos_top-+1.png",
+				"logo": "https://ananthu.s3.ap-south-1.amazonaws.com/partner_logo.png"
 			},
 			"colors": {
 				"primary": {
