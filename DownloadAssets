@@ -13,7 +13,8 @@
 				"bottom": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos+bottom.png",
 				"top": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos_top-+1.png",
 				"logo": "https://ananthu.s3.ap-south-1.amazonaws.com/partner_logo.png",
-				"top_inside": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos_top-+1.png"
+				"top_inside": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos_top-+1.png",
+				"blurred_bg": "https://ananthu.s3.ap-south-1.amazonaws.com/Anathu_image_1.jpeg"
 			},
 			"colors": {
 				"primary": {
@@ -40,12 +41,6 @@
 					"g": 67.0,
 					"b": 115.0
 				}, {
-					"hex": "#354373",
-					"r": 53.0,
-					"g": 67.0,
-					"b": 115.0
-				}],
-				"gradients_ios": [{
 					"hex": "#354373",
 					"r": 53.0,
 					"g": 67.0,
