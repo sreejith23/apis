@@ -9,7 +9,7 @@
 		"status": "F01",
 		"message": "Successfully verified",
 		"details": {
-			"sessionId": "456"
+			"cust_id": "456"
 		}
 	},
 	"resp_frm_yesb": {}
