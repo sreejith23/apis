@@ -10,10 +10,10 @@
 		"message": "Card added successfully",
 		"details": {
 			"images": {
-				"bottom": "https://ananthu.s3.ap-south-1.amazonaws.com/Perumanna_Bg/Perumanna_bg_design.png",
-				"top": "https://ananthu.s3.ap-south-1.amazonaws.com/Perumanna_Bg/Perumanna_Top_left_design.png",
-				"logo": "https://ananthu.s3.ap-south-1.amazonaws.com/Perumanna_Bg/perumanna_logoo-01.png",
-				"blurred_bg": "https://ananthu.s3.ap-south-1.amazonaws.com/Perumanna_Bg/Perumanna_Ui_BG-3.png"
+				"bottom": "https://ananthu.s3.ap-south-1.amazonaws.com/Cherukavu_BG/2+Cherukavu_BG-.png",
+				"top": "https://ananthu.s3.ap-south-1.amazonaws.com/Cherukavu_BG/2+Cherukavu_Top_left_design-Recovered.png",
+				"logo": "https://ananthu.s3.ap-south-1.amazonaws.com/Cherukavu_BG/Cherukavu_logo__-01.png",
+				"blurred_bg": "https://ananthu.s3.ap-south-1.amazonaws.com/Cherukavu_BG/2+Cherukavu_BG_blur.png"
 			},
 			"colors": {
 				"primary": {
