@@ -10,10 +10,10 @@
 		"message": "Card added successfully",
 		"details": {
 			"images": {
-				"bottom": "https://ananthu.s3.ap-south-1.amazonaws.com/Sreekrishnapuram_BG/Sreekrishnapuram_BG.png",
-				"top": "https://ananthu.s3.ap-south-1.amazonaws.com/Sreekrishnapuram_BG/Sreekrishnapuram_tOP_left_design.png",
-				"logo": "https://ananthu.s3.ap-south-1.amazonaws.com/Sreekrishnapuram_BG/Sreekrishnapuram_Logo-01.png",
-				"blurred_bg": "https://ananthu.s3.ap-south-1.amazonaws.com/Sreekrishnapuram_BG/Sreekrishnapuram_BG_blur.png"
+				"bottom": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos+bottom.png",
+				"top": "https://ananthu.s3.ap-south-1.amazonaws.com/Amcos_top-+2.png",
+				"logo": "https://ananthu.s3.ap-south-1.amazonaws.com/partner_logo.png",
+				"blurred_bg": "https://ananthu.s3.ap-south-1.amazonaws.com/Anathu_image_1.jpeg"
 			},
 			"colors": {
 				"primary": {
