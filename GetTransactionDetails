@@ -12,7 +12,7 @@
 				"user_name": "Jo",
 				"amount": "1000",
 				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
-				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_date": "2021-04-16",
 				"transaction_reference_number": "2021041681760180",
 				"transaction_type": "Credited"
 			},
@@ -20,7 +20,7 @@
 				"user_name": "Manu",
 				"amount": "500",
 				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
-				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_date": "2021-04-16",
 				"transaction_reference_number": "2021041681760180",
 				"transaction_type": "Debited"
 			},
@@ -28,7 +28,7 @@
 				"user_name": "Sree",
 				"amount": "6500",
 				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
-				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_date": "2021-04-16",
 				"transaction_reference_number": "2021041681760180",
 				"transaction_type": "Failed"
 			},
@@ -36,7 +36,7 @@
 				"user_name": "Ajaz",
 				"amount": "8000",
 				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
-				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_date": "2021-04-16",
 				"transaction_reference_number": "2021041681760180",
 				"transaction_type": "Credited"
 			},
@@ -44,7 +44,7 @@
 				"user_name": "Bro",
 				"amount": "8000",
 				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
-				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_date": "2021-04-16",
 				"transaction_reference_number": "2021041681760180",
 				"transaction_type": "Debited"
 			}
