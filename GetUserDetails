@@ -11,7 +11,22 @@
 			"email": "a@g.com",
 			"mobile": "995482933993",
 			"balance": "100.00",
-			"user_name": "anu"
+			"user_name": "anu",
+			"savings_balance" :[ 
+			                      {
+			                        "account_no":"656551",
+					        "balance" : "200"
+					      },
+					      {
+			                        "account_no":"687849645",
+					        "balance" : "1000"
+					      },
+					      {
+			                        "account_no":"9565468",
+					        "balance" : "60000"
+					      }
+					       
+					  ]
 			
 		}
 	},
