@@ -9,7 +9,8 @@
 		"status": "F01",
 		"message": "Successfully verified",
 		"details": {
-			"cust_id": "456"
+			"cust_id": "456",
+			 "partner_status": 0
 		}
 	},
 	"resp_frm_yesb": {}
