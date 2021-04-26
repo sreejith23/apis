@@ -9,41 +9,46 @@
 		"status": "F01",
 		"message": "GetTransactionDetails fetched successfully",
 		"details": [{
-			"userName": "John Doe",
-			"transactionReferenceNo": "12121212",
-			"transactionType": 1,
-			"amount": "1560.00",
-			"status": 1,
-			"transactionDate": "13-2-2020"
-		}, {
-			"userName": "Jane Doe",
-			"transactionReferenceNo": "12121212",
-			"transactionType": 2,
-			"amount": "1000.00",
-			"status": 1,
-			"transactionDate": "13-2-2020"
-		}, {
-			"userName": "John Doe",
-			"transactionReferenceNo": "12121212",
-			"transactionType": 1,
-			"amount": "575.00",
-			"status": 0,
-			"transactionDate": "13-2-2020"
-		}, {
-			"userName": "Ram",
-			"transactionReferenceNo": "12121212",
-			"transactionType": 2,
-			"amount": "1200.00",
-			"status": 1,
-			"transactionDate": "13-2-2020"
-		}, {
-			"userName": "Govind",
-			"transactionReferenceNo": "12121212",
-			"transactionType": 1,
-			"amount": "200.00",
-			"status": 0,
-			"transactionDate": "13-2-2020"
-		}]
+				"user_name": "Jo",
+				"amount": "1000",
+				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
+				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_reference_number": "2021041681760180",
+				"transaction_type": "Credited"
+			},
+			{
+				"user_name": "Manu",
+				"amount": "500",
+				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
+				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_reference_number": "2021041681760180",
+				"transaction_type": "Debited"
+			},
+			{
+				"user_name": "Sree",
+				"amount": "6500",
+				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
+				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_reference_number": "2021041681760180",
+				"transaction_type": "Failed"
+			},
+			{
+				"user_name": "Ajaz",
+				"amount": "8000",
+				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
+				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_reference_number": "2021041681760180",
+				"transaction_type": "Credited"
+			},
+			{
+				"user_name": "Bro",
+				"amount": "8000",
+				"message": "Credited Rs. 1.0 through wla_wallet_load_money",
+				"transaction_date": "2021-04-16T16:05:11.000+05:30",
+				"transaction_reference_number": "2021041681760180",
+				"transaction_type": "Debited"
+			}
+		]
 	},
 
 	"resp_frm_yesb": {}
