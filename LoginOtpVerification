@@ -10,7 +10,7 @@
 		"message": "Successfully verified",
 		"details": {
 			"cust_id": "456",
-			 "partner_status": 0
+			 "partner_status": 1
 		}
 	},
 	"resp_frm_yesb": {}
