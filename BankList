@@ -1,0 +1,324 @@
+{
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_data": "resp_frm_ewire",
+	"requestapi": "BankList",
+   "resp_code": "9031",
+    "resp_frm_ewire": {
+        "details": [
+            {
+                "code": "560",
+                "id": 132,
+                "name": "Page MFBank"
+            },
+            {
+                "code": "304",
+                "id": 133,
+                "name": "Stanbic Mobile Money"
+            },
+            {
+                "code": "308",
+                "id": 134,
+                "name": "FortisMobile"
+            },
+            {
+                "code": "328",
+                "id": 135,
+                "name": "TagPay"
+            },
+            {
+                "code": "309",
+                "id": 136,
+                "name": "FBNMobile"
+            },
+            {
+                "code": "011",
+                "id": 137,
+                "name": "First Bank of Nigeria"
+            },
+            {
+                "code": "326",
+                "id": 138,
+                "name": "Sterling Mobile"
+            },
+            {
+                "code": "990",
+                "id": 139,
+                "name": "Omoluabi Mortgage Bank"
+            },
+            {
+                "code": "311",
+                "id": 140,
+                "name": "ReadyCash (Parkway)"
+            },
+            {
+                "code": "057",
+                "id": 141,
+                "name": "Zenith Bank"
+            },
+            {
+                "code": "068",
+                "id": 142,
+                "name": "Standard Chartered Bank"
+            },
+            {
+                "code": "306",
+                "id": 143,
+                "name": "eTranzact"
+            },
+            {
+                "code": "070",
+                "id": 144,
+                "name": "Fidelity Bank"
+            },
+            {
+                "code": "023",
+                "id": 145,
+                "name": "CitiBank"
+            },
+            {
+                "code": "215",
+                "id": 146,
+                "name": "Unity Bank"
+            },
+            {
+                "code": "323",
+                "id": 147,
+                "name": "Access Money"
+            },
+            {
+                "code": "302",
+                "id": 148,
+                "name": "Eartholeum"
+            },
+            {
+                "code": "324",
+                "id": 149,
+                "name": "Hedonmark"
+            },
+            {
+                "code": "325",
+                "id": 150,
+                "name": "MoneyBox"
+            },
+            {
+                "code": "301",
+                "id": 151,
+                "name": "JAIZ Bank"
+            },
+            {
+                "code": "050",
+                "id": 152,
+                "name": "Ecobank Plc"
+            },
+            {
+                "code": "307",
+                "id": 153,
+                "name": "EcoMobile"
+            },
+            {
+                "code": "318",
+                "id": 154,
+                "name": "Fidelity Mobile"
+            },
+            {
+                "code": "319",
+                "id": 155,
+                "name": "TeasyMobile"
+            },
+            {
+                "code": "999",
+                "id": 156,
+                "name": "NIP Virtual Bank"
+            },
+            {
+                "code": "320",
+                "id": 157,
+                "name": "VTNetworks"
+            },
+            {
+                "code": "221",
+                "id": 158,
+                "name": "Stanbic IBTC Bank"
+            },
+            {
+                "code": "501",
+                "id": 159,
+                "name": "Fortis Microfinance Bank"
+            },
+            {
+                "code": "329",
+                "id": 160,
+                "name": "PayAttitude Online"
+            },
+            {
+                "code": "322",
+                "id": 161,
+                "name": "ZenithMobile"
+            },
+            {
+                "code": "303",
+                "id": 162,
+                "name": "ChamsMobile"
+            },
+            {
+                "code": "403",
+                "id": 163,
+                "name": "SafeTrust Mortgage Bank"
+            },
+            {
+                "code": "551",
+                "id": 164,
+                "name": "Covenant Microfinance Bank"
+            },
+            {
+                "code": "415",
+                "id": 165,
+                "name": "Imperial Homes Mortgage Bank"
+            },
+            {
+                "code": "552",
+                "id": 166,
+                "name": "NPF MicroFinance Bank"
+            },
+            {
+                "code": "526",
+                "id": 167,
+                "name": "Parralex"
+            },
+            {
+                "code": "035",
+                "id": 168,
+                "name": "Wema Bank"
+            },
+            {
+                "code": "084",
+                "id": 169,
+                "name": "Enterprise Bank"
+            },
+            {
+                "code": "063",
+                "id": 170,
+                "name": "Diamond Bank"
+            },
+            {
+                "code": "305",
+                "id": 171,
+                "name": "Paycom"
+            },
+            {
+                "code": "100",
+                "id": 172,
+                "name": "SunTrust Bank"
+            },
+            {
+                "code": "317",
+                "id": 173,
+                "name": "Cellulant"
+            },
+            {
+                "code": "401",
+                "id": 174,
+                "name": "ASO Savings and & Loans"
+            },
+            {
+                "code": "030",
+                "id": 175,
+                "name": "Heritage"
+            },
+            {
+                "code": "402",
+                "id": 176,
+                "name": "Jubilee Life Mortgage Bank"
+            },
+            {
+                "code": "058",
+                "id": 177,
+                "name": "GTBank Plc"
+            },
+            {
+                "code": "032",
+                "id": 178,
+                "name": "Union Bank"
+            },
+            {
+                "code": "232",
+                "id": 179,
+                "name": "Sterling Bank"
+            },
+            {
+                "code": "076",
+                "id": 180,
+                "name": "Skye Bank"
+            },
+            {
+                "code": "082",
+                "id": 181,
+                "name": "Keystone Bank"
+            },
+            {
+                "code": "327",
+                "id": 182,
+                "name": "Pagatech"
+            },
+            {
+                "code": "559",
+                "id": 183,
+                "name": "Coronation Merchant Bank"
+            },
+            {
+                "code": "601",
+                "id": 184,
+                "name": "FSDH"
+            },
+            {
+                "code": "313",
+                "id": 185,
+                "name": "Mkudi"
+            },
+            {
+                "code": "214",
+                "id": 186,
+                "name": "First City Monument Bank"
+            },
+            {
+                "code": "314",
+                "id": 187,
+                "name": "FET"
+            },
+            {
+                "code": "523",
+                "id": 188,
+                "name": "Trustbond"
+            },
+            {
+                "code": "315",
+                "id": 189,
+                "name": "GTMobile"
+            },
+            {
+                "code": "033",
+                "id": 190,
+                "name": "United Bank for Africa"
+            },
+            {
+                "code": "044",
+                "id": 191,
+                "name": "Access Bank"
+            },
+            {
+                "code": "90115",
+                "id": 567,
+                "name": "TCF MFB"
+            },
+            {
+                "code": "090175",
+                "id": 1413,
+                "name": "HighStreet MFB bank"
+            }
+        ],
+        "message": "Bank Lists Succesfully Fetched",
+        "status": "F01"
+    },
+    "resp_type": "SUCCESS"
+}
