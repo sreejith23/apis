@@ -1,0 +1,277 @@
+{
+	"ewire_reqid": "10",
+	"timeStamp": "2021-02-26 11:53:09",
+	"resp_data": "resp_frm_ewire",
+	"requestapi": "BranchList",
+	"resp_code": "9034",
+	"resp_frm_ewire": {
+		"details": [{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190101",
+				"branch_name": "STANBIC BANK GHANA LTD-ACCRA MAIN",
+				"id": 992,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190102",
+				"branch_name": "STANBIC BANK GHANA LTD-AIRPORT CITY",
+				"id": 993,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190103",
+				"branch_name": "STANBIC BANK GHANA LTD-SPINTEX ROAD",
+				"id": 994,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190104",
+				"branch_name": "STANBIC BANK GHANA LTD-ACCRA MALL",
+				"id": 995,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190105",
+				"branch_name": "STANBIC BANK GHANA -NORTH INDUSTIAL AREA",
+				"id": 996,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190106",
+				"branch_name": "STANBIC BANK GHANA-TEMA INDUSTRIAL AREA",
+				"id": 997,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190107",
+				"branch_name": "STANBIC BANK GHANA LTD-GRAPHIC ROAD",
+				"id": 998,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190108",
+				"branch_name": "STANBIC BANK GHANA LTD-MAKOLA",
+				"id": 999,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190109",
+				"branch_name": "STANBIC BANK GHANA LTD-RIND ROAD",
+				"id": 1000,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190110",
+				"branch_name": "STANBIC BANK GHANA LTD-ACHIMOTA",
+				"id": 1001,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190112",
+				"branch_name": "STANBIC BANK GHANA LTD-KASOA",
+				"id": 1002,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190401",
+				"branch_name": "STANBIC BANK GHANA LTD-TAKORADI",
+				"id": 1003,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190402",
+				"branch_name": "STANBIC BANK GHANA LTD-TARKWA",
+				"id": 1004,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190501",
+				"branch_name": "STANBIC BANK GHANA LTD-HO",
+				"id": 1005,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190601",
+				"branch_name": "STANBIC BANK GHANA LTD-HARPER-KUMASI",
+				"id": 1006,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190701",
+				"branch_name": "STANBIC BANK GHANA LTD-SUNYANI",
+				"id": 1007,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190901",
+				"branch_name": "STANBIC BANK GHANA LTD-BOLGATANGA",
+				"id": 1008,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH191001",
+				"branch_name": "STANBIC BANK GHANA LTD-WA",
+				"id": 1009,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190113",
+				"branch_name": "STANBIC BANK GH LTD - TEMA FISHING HABOUR",
+				"id": 1010,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190111",
+				"branch_name": "STANBIC BANK GHANA LTD-ROMAN RIDGE",
+				"id": 1011,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190801",
+				"branch_name": "STANBIC BANK GHANA LTD-TAMALE",
+				"id": 1012,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190121",
+				"branch_name": "STANBIC BANK -STANBIC HEIGHTS BRANCH",
+				"id": 1013,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHAC",
+				"branch_code": "GH190603",
+				"branch_name": "STABIC BANK GHANA LIMITED - ADUM",
+				"id": 1014,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190114",
+				"branch_name": "STANBIC BANK GHANA LTD-MOVENPICK",
+				"id": 1015,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHAC",
+				"branch_code": "GH190118",
+				"branch_name": "STANBIC BANK - MADINA BRANCH",
+				"id": 1016,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHAC",
+				"branch_code": "GH190602",
+				"branch_name": "STANBIC BANK GHANA LTD-SUAME",
+				"id": 1017,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHAC",
+				"branch_code": "GH190117",
+				"branch_name": "STANBIC BANK GHANA LTD- ASHIAMAN",
+				"id": 1018,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190125",
+				"branch_name": "STANBIC BANK-JUNCTION MALL BRANCH",
+				"id": 1019,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190120",
+				"branch_name": "STANBIC BANK GHANA LTD-LAPAZ",
+				"id": 1020,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190116",
+				"branch_name": "STANBIC BANK GHANA LTD-DANSOMAN",
+				"id": 1021,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHAC",
+				"branch_code": "GH190115",
+				"branch_name": "STANBIC MADINA",
+				"id": 1022,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHACXXX",
+				"branch_code": "GH190130",
+				"branch_name": "STANBIC BANK GHANA LTD - LEGON",
+				"id": 1023,
+				"swift_code": "SBICGHAC"
+			},
+			{
+				"bank_id": 280,
+				"bic": "SBICGHAC",
+				"branch_code": "GH190119",
+				"branch_name": "STANBIC BANK - EAST LEGON",
+				"id": 1024,
+				"swift_code": "SBICGHAC"
+			}
+		],
+		"message": "Branch Lists Succesfully Fetched",
+		"status": "F01"
+	},
+	"resp_frm_yesb": {}
+}
