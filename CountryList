@@ -8,43 +8,43 @@
 	"resp_frm_ewire": {
         "details": [
             {
-                "country_ code": "NG",
+                "country_code": "NG",
                 "country_name": "Nigeria",
                 "currency": "NGN",
                 "require_bank_details": 1
             },
             {
-                "country_ code": "GH",
+                "country_code": "GH",
                 "country_name": "Ghana",
                 "currency": "GHS",
                 "require_bank_details": 1
             },
             {
-                "country_ code": "KE",
+                "country_code": "KE",
                 "country_name": "Kenya",
                 "currency": "KES",
                 "require_bank_details": 1
             },
             {
-                "country_ code": "UG",
+                "country_code": "UG",
                 "country_name": "Uganda",
                 "currency": "UGX",
                 "require_bank_details": 1
             },
             {
-                "country_ code": "ZA",
+                "country_code": "ZA",
                 "country_name": "South Africa",
                 "currency": "ZAR",
                 "require_bank_details": 1
             },
             {
-                "country_ code": "TZ",
+                "country_code": "TZ",
                 "country_name": "Tanzania",
                 "currency": "TZS",
                 "require_bank_details": 1
             },
             {
-                "country_ code": "US",
+                "country_code": "US",
                 "country_name": "United States Of America",
                 "currency": "USD",
                 "require_bank_details": 0
